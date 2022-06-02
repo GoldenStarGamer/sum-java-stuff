@@ -5,3 +5,7 @@ Bruh why did i write togheder instead of togeder bruh.
 So stoopid i am.  
 create i project inside of it.  
 me so stoopid i ded.  
+# Dependencies
+You just need java.  
+# Package?
+Wait. Be patient.
